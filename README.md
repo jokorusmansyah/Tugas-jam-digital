@@ -1,1 +1,2 @@
-# Tugas-jam-digital
+# JamDigital
+Jam digital dengan dua tombol
